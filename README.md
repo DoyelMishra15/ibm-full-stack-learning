@@ -1,1 +1,0 @@
-# ibm-full-stack-learning
